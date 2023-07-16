@@ -39,11 +39,11 @@
 
         default_layer {
             bindings = <
-  &none     &kp N1  &kp N2    &kp N3     &kp N4  &kp N5                &none                                                                      &none  &kp N6  &kp N7     &kp N8    &kp N9    &kp N0  &kp MINUS
-  &none      &kp Q   &kp W     &kp E      &kp R   &kp T              &kp TAB                                                                      &none   &kp Y   &kp U      &kp I     &kp O     &kp P   &kp BSLH
-  &none      &kp A   &kp S     &kp D      &kp F   &kp G                &mo 1    &kp BSPC   &kp DEL                  &kp RIGHT_ALT  &kp RCTRL      &mo 1   &kp H   &kp J      &kp K     &kp L  &kp SEMI    &kp SQT
-  &none      &kp Z   &kp X     &kp C      &kp V   &kp B                                   &kp HOME                      &kp PG_UP                         &kp N   &kp M  &kp COMMA   &kp DOT  &kp FSLH  &kp EQUAL
-  &none  &kp GRAVE   &none  &kp LEFT  &kp RIGHT                    &kp LCTRL  &kp LSHIFT  &kp LCMD                      &kp PG_DN  &kp ENTER  &kp SPACE          &kp UP   &kp DOWN  &kp LBKT  &kp RBKT      &mo 1
+  &none     &kp N1                 &kp N2    &kp N3     &kp N4  &kp N5                &none                                                                      &none  &kp N6  &kp N7     &kp N8    &kp N9    &kp N0  &kp MINUS
+  &none      &kp Q                  &kp W     &kp E      &kp R   &kp T              &kp TAB                                                                      &none   &kp Y   &kp U      &kp I     &kp O     &kp P   &kp BSLH
+  &none      &kp A                  &kp S     &kp D      &kp F   &kp G                &mo 1    &kp BSPC   &kp DEL                  &kp RIGHT_ALT  &kp RCTRL      &mo 1   &kp H   &kp J      &kp K     &kp L  &kp SEMI    &kp SQT
+  &none      &kp Z                  &kp X     &kp C      &kp V   &kp B                                   &kp HOME                      &kp PG_UP                         &kp N   &kp M  &kp COMMA   &kp DOT  &kp FSLH  &kp EQUAL
+  &none  &kp GRAVE  &macro_macro_inputsrc  &kp LEFT  &kp RIGHT                    &kp LCTRL  &kp LSHIFT  &kp LCMD                      &kp PG_DN  &kp ENTER  &kp SPACE          &kp UP   &kp DOWN  &kp LBKT  &kp RBKT      &mo 1
             >;
         };
 
